@@ -1,0 +1,7 @@
+{
+  "requires": [],
+  "provides": {
+    "csv-loader": ["arrow", ["Any", "Any"], "Any"],
+    "mean": ["arrow", ["Any"], "Any"]
+  }
+}
